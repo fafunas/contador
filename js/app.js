@@ -25,7 +25,7 @@ var app = new Vue({
     },
     computed: {
         potencia() {
-            return this.resultado * 2
+            return this.resultado * this.resultado
         },
         cantclicks(){
             return this.contador
