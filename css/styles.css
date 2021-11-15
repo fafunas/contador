@@ -3,3 +3,28 @@ h1{
     text-align: center;
     color: coral;
 }
+
+h4{
+    color: blue;
+    text-shadow:1px 1px 2px black;
+   
+}
+
+.btn-danger{
+    margin-left: 10px;
+  }
+
+.left{
+    align-items: left;
+}
+.botones{
+    margin: 10px
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+
